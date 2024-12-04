@@ -19,7 +19,7 @@
 set +e # Error Mode
 set +x # Debug mode
 
-DIRECTORY='/home/fl_lpt-369/Desktop/Key_pairs/pem_keys' # Assigning the path into variable
+DIRECTORY='/home/fl_lpt-602/Desktop/Key_pairs/pem_keys' # Assigning the path into variable
 
 
 if [ ! -d "$DIRECTORY" ];   # Here the condition satisify  
